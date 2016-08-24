@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.888,=C:\projekte\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,C:\projekte\Project1PCH1.h=C:\projekte\Werbung 040816\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,=C:\projekte\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\projekte\Unit1.fmx=C:\projekte\Werbung 040816\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.090,C:\projekte\Werbung 040816\AdMobPCH1.h=C:\projekte\Werbung 040816\AdMob AdsPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,C:\projekte\Werbung 040816\Project1.cbproj=C:\projekte\Werbung 040816\AdMob Ads.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,=C:\projekte\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\projekte\Werbung 040816\Project1PCH1.h=C:\projekte\Werbung 040816\AdMob AdsPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,C:\projekte\Werbung 040816\AdMob.cbproj=C:\projekte\Werbung 040816\AdMob Ads.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,C:\projekte\Project1.cbproj=C:\projekte\Werbung 040816\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.548,=C:\projekte\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\projekte\Unit1.cpp=C:\projekte\Werbung 040816\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\projekte\Unit1.h=C:\projekte\Werbung 040816\Unit1.h</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="98867347594b4a3039"/>
+	</ActiveMobileDevice>
+</BorlandProject>
